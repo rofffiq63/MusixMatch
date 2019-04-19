@@ -29,8 +29,8 @@ class DetailActivity : BaseActivity(), ScheduleAdapter.ClickListener {
         eventList.adapter = scheduleAdapter
         eventList.layoutManager = LinearLayoutManager(this)
 
-        val dividerItemDecoration = DividerItemDecoration(resultList.context,
-                (resultList.layoutManager as LinearLayoutManager).orientation)
+        val dividerItemDecoration = DividerItemDecoration(eventList.context,
+                (eventList.layoutManager as LinearLayoutManager).orientation)
         eventList.addItemDecoration(dividerItemDecoration)
 
         scheduleAdapter?.addData(inDatabaseManager?.getSchedule(date)!!)
