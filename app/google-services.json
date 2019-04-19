@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940429101496",
+    "firebase_url": "https://musixmatch-238018.firebaseio.com",
+    "project_id": "musixmatch-238018",
+    "storage_bucket": "musixmatch-238018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940429101496:android:f476d450eff84701",
+        "android_client_info": {
+          "package_name": "under.the.bridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940429101496-875atamrgi84h1o3ffdmt86hgniaul0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "under.the.bridge",
+            "certificate_hash": "afc59f45ab6d597bbbe39d355c2f72e6df90555b"
+          }
+        },
+        {
+          "client_id": "940429101496-smoarrdaenn7et5s0hartbsn744shk7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlz0s3GFqUHahmaAbejoLDk18BUaYQug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940429101496-smoarrdaenn7et5s0hartbsn744shk7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

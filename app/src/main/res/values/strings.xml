@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MusixMatch</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <!--<string name="dialog_action_cancel">Cancel</string>-->
+    <string name="dialog_error_title">Sorry</string>
+
+    <!-- Detail Activity -->
+    <!--<string name="text_pokemon_id">Id: %s</string>-->
+    <!--<string name="text_pokemon_name">Name: %s</string>-->
+    <!--<string name="text_pokemon_experience">Experience: %s</string>-->
+
+    <!-- Error View -->
+    <string name="error_title">Oops</string>
+    <string name="error_message">There was a problem loading the pokemon, please try again!</string>
+    <string name="error_reload">Reload</string>
+    <string name="title_activity_maps_sample">Map</string>
+
+    <string name="facebook_app_id">422213005021625</string>
+    <string name="fb_login_protocol_scheme">fb422213005021625</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
